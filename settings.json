@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "siamfucking.aternos.me ",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "solocloud.host",
-    "port": 25565,
+    "port": 58894,
     "version": "1.20.1",
     "try-creative": false
   },
